@@ -1,0 +1,37 @@
+[Global]
+TimeZone=America/Mexico_City
+ConfigExpirationTime=never
+AvailableKeyboardLayouts=latam|us|es|dvorak|
+DefaultKeyboardLayout=us
+EventConfig=false
+ContestConfig=true
+ShutdownTime=none
+
+[Always]
+AllowedWebsites=all
+AllowUsbStorage=true
+AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|
+Bookmarks={huronOS^https://huronos.org}|{Contest^https://boca.icpcmexico.org}|
+Wallpaper=http://rrios7.com/directives/wallpapers/windoge.png
+WallpaperSha256=4797c14c1241555f38c4b29edf2d51246a58cac6801dfb43893bd2984b2cf820
+
+[Event]
+AllowedWebsites=all
+AllowUsbStorage=true
+AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|
+Bookmarks={huronOS^https://huronos.org}|{Contest^https://redprogramacioncompetitiva.com/contests/2025/03}|
+Bookmarks=huronOS^https://huronos.org|
+Wallpaper=default
+
+[Contest]
+AllowedWebsites=dmoj.olimpiadadeinformatica.org.mx|en.cppreference.com|rekarel.olimpiadadeinformatica.org.mx|omegaup.com/karel.js/ayuda.html
+AllowUsbStorage=false
+AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|
+Bookmarks={huronOS^https://huronos.org}|{Contest^http://dmoj.olimpiadadeinformatica.org.mx}|{Documentación C++^https://en.cppreference.com/w/}|{Documentación Karel^https://omegaup.com/karel.js/ayuda.html}
+Wallpaper=http://rrios7.com/directives/wallpapers/omijal.png
+WallpaperSha256=16d29a4d17309a23a5b2e22a2be894635384005ef751dc3164e55193ea441143
+
+[Event-Times]
+
+[Contest-Times]
+2025-06-07T07:55:00 2025-06-07T15:05:00
